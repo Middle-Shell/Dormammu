@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 2Dormammu Variant
-  m_Shader: {fileID: -6465566751694194690, guid: c77a15343064e694385d4c0001c9934d,
+  m_Shader: {fileID: -6465566751694194690, guid: cd8b2de93e2f06e43afb922257033051,
     type: 3}
   m_Parent: {fileID: 2100000, guid: 44c6b9e4b67e31a4d9632e75999a3c14, type: 2}
   m_ModifiedSerializedProperties: 2
